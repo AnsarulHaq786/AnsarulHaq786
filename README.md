@@ -8,11 +8,13 @@ I'm passionate about technology. I enjoy learning new things and sharing my know
 
 - 🎓 Software Engineering student at [Pokhara University](https://pu.edu.np/) <br><br>
 - 🌐 Visit my [Portfolio Website](https://ansarulhaq.com.np) to know more about my work <br><br>
+
+- ⏲️ Wanna see what I code whole day [WakaTime](https://wakatime.com/@AnsarulHaq786) <br><br>
+
 - 📫 How to reach me: <br>
-[Mail](mailto:mdansarul786940.com)<br>
-[Linkedin](https://www.linkedin.com/in/ansarulhaq786/)<br><br>
+[Mail](mailto:mdansarul786940.com)   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Linkedin](https://www.linkedin.com/in/ansarulhaq786/)<br><br>
 - 🌱 Currently learning: [React JS](https://react.dev), [Problem Solving With DSA](https://leetcode.com/u/Ansarul_haq/) <br><br>
-- 💬 Ask me about: Web Development, JavaScript, Open Source, Learning Techniques
+- 💬 Ask me about: Web Development, JavaScript, Learning Techniques, Open Source
 
 ## 🛠️ Technologies & Tools
 
